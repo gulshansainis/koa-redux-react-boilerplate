@@ -1,0 +1,27 @@
+{
+  "name": "koa-redux-react-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for a Koa Redux React application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulshansainis/koa-redux-react-boilerplate.git"
+  },
+  "keywords": [
+    "koa",
+    "redux",
+    "react",
+    "webpack",
+    "sass",
+    "boilerplate"
+  ],
+  "author": "Gulshan Saini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gulshansainis/koa-redux-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/gulshansainis/koa-redux-react-boilerplate#readme"
+}
